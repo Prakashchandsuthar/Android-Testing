@@ -16,7 +16,7 @@ Pre-Requiusites:
 How to use MoblizerLin:
 -----------------------
 As the name specifies it for Linux operating system.
-1. Download moblizerLin.py 
+1. Download moblizerLin.py
 2. Copy your .apk file to the same place where your moblizer exist.
 3. Run moblizerLin.py using commandline. Then it will ask you to provide your apk file name.
 4. Just provide your apk file name.
