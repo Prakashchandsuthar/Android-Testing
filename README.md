@@ -13,11 +13,24 @@ Pre-Requiusites:
 2. python 2.x installed.
 
 
-How to use Moblizer:
---------------------
-1. Copy moblizer.py to the apk tool directory.
-2. Copy your .apk file to the same path.
-3. Run moblizer.py using commandline. Then it will ask you to provide your apk file name.
+How to use MoblizerLin:
+-----------------------
+As the name specifies it for Linux operating system.
+1. Download moblizerLin.py 
+2. Copy your .apk file to the same place where your moblizer exist.
+3. Run moblizerLin.py using commandline. Then it will ask you to provide your apk file name.
 4. Just provide your apk file name.
 5. It will fetch all the codes which contains any sensitive keyword such as email, ip, username etc and put it in logfile.log where you can analyze all those.
 6. It also provides you Manifest permission details in the logfile itself.
+
+
+How to use MoblizerWin:
+-----------------------
+As the name specifies it for Windows operating system.
+1. Download moblizerWin.py
+2. Copy your moblizerWin.py to the apktool folder.
+3. Copy your .apk file to the same place where your moblizer exist.
+4. Run moblizerWin.py using commandline. Then it will ask you to provide your apk file name.
+5. Just provide your apk file name.
+6. It will fetch all the codes which contains any sensitive keyword such as email, ip, username etc and put it in logfile.log where you can analyze all those.
+7. It also provides you Manifest permission details in the logfile itself.
