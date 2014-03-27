@@ -13,9 +13,8 @@ Pre-Requiusites:
 2. python 2.x installed.
 
 
-How to use MoblizerLin:
------------------------
-As the name specifies it for Linux operating system.
+How to use MoblizerLin (Linux Version):
+--------------------------------------
 1. Download moblizerLin.py
 2. Copy your .apk file to the same place where your moblizer exist.
 3. Run moblizerLin.py using commandline. Then it will ask you to provide your apk file name.
@@ -24,9 +23,8 @@ As the name specifies it for Linux operating system.
 6. It also provides you Manifest permission details in the logfile itself.
 
 
-How to use MoblizerWin:
------------------------
-As the name specifies it for Windows operating system.
+How to use MoblizerWin (Windows Version):
+-----------------------------------------
 1. Download moblizerWin.py
 2. Copy your moblizerWin.py to the apktool folder.
 3. Copy your .apk file to the same place where your moblizer exist.
