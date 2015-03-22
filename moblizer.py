@@ -44,7 +44,10 @@ b = raw_input("Enter apk filename: ")
 print ""
 print ""
 print "Test started for "+b
-call(['apktool','d',b])
+if os.name == 'posix':
+  call(['apktool','d',b])
+else:
+  call(['apktool.bat','d',b])
 flist=[]
 dirp=b.replace(".apk","")
 rootpath="./"+dirp
@@ -91,4 +94,3 @@ print "Test Completed for "+b
 print "-----------------------------------------------------------------------------------------------------"
 print ""
 print ""
-
