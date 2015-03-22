@@ -19,7 +19,7 @@ How to use Moblizer
 --------------------------------------
 1. Download moblizer.py
 2. Copy your .apk file to the same place where your moblizer exist.
-3. Run moblizerLin.py using commandline. Then it will ask you to provide your apk file name.
+3. Run moblizer.py using commandline. Then it will ask you to provide your apk file name.
 4. Just provide your apk file name. The full name such as test.apk.
 5. It will fetch all the codes which contains any sensitive keyword such as email, ip, username etc and put it in logfile.log where you can analyze all those.
 6. It also provides you Manifest permission details in the logfile itself.
